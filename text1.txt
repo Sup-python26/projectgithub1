@@ -1,1 +1,4 @@
-Learn to code
+Learning to Code
+HTML: Hyper Text Markup Language
+CSS: Cascading Style Sheets
+Javascript
